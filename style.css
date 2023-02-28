@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+.heading{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    background-color: burlywood;
+    margin-top: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    margin-left: 27em;
+    margin-top: 1em;
+    padding: 2px;
+    margin-right: 1em;
+}
